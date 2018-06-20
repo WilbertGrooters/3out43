@@ -1,4 +1,5 @@
 <?php 
+die('hello');
 /**
  * The base configuration for WordPress
  *
