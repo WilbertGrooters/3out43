@@ -1,4 +1,5 @@
 <?php
+die("here..");
 /**
  * Twenty Seventeen functions and definitions
  *
