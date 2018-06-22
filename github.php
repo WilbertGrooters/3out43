@@ -1,1 +1,1 @@
-<?php `git pull origin live -f`;
+<?php `git pull`;
