@@ -1,5 +1,4 @@
-<?php 
-die("Working");   
+<?php    
 /**
  * The base configuration for WordPress
  *
