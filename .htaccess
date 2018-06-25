@@ -3,9 +3,9 @@
 RewriteEngine On
 RewriteBase /
 RewriteRule ^index\.php$ - [L]
-RewriteRule ^wp-tee/?$ /wp-login.php [QSA,L]
-RewriteRule ^wp-tee/register/?$ /wp-login.php?action=register [QSA,L]
-RewriteRule ^wp-tee/lostpassword/?$ /wp-login.php?action=lostpassword [QSA,L]
+RewriteRule ^wp-lee/?$ /wp-login.php [QSA,L]
+RewriteRule ^wp-lee/register/?$ /wp-login.php?action=register [QSA,L]
+RewriteRule ^wp-lee/lostpassword/?$ /wp-login.php?action=lostpassword [QSA,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
