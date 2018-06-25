@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <?php 
-=======
-<?php    
->>>>>>> afe53d3a942636e635481bdbcd175d28b211bd49
 /**
  * The base configuration for WordPress
  *
