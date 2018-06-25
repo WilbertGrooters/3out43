@@ -1,4 +1,4 @@
-<?php
+<?php 
 /**
  * Twenty Seventeen functions and definitions
  *
